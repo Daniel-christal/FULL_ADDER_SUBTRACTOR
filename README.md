@@ -38,9 +38,10 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 ## FULL ADDER:
-![image](https://github.com/user-attachments/assets/7f787034-e741-4784-8483-d0e4de36cc59)
+![image](https://github.com/user-attachments/assets/4e66dc29-73cd-4ff4-9b7f-7bd95184f3df)
+
 ## FULL SUBTRACTOR:
-![image](https://github.com/user-attachments/assets/3a16487a-aacc-4877-a916-a8f540d37d9c)
+![image](https://github.com/user-attachments/assets/6e9cb533-0f34-4538-8883-acc666ebca41)
 
 **Procedure**
 1. Open Quartus Software   
@@ -78,7 +79,7 @@ assign borr=((~a&b)|(b&bin)|(bin&~a));
 endmodule
 ```
 
-**RTL Schematic**
+## RTL Schematic:
 ## FULL ADDER:
 ![image](https://github.com/user-attachments/assets/b4f05a08-05de-4600-8f74-608be2fcd923)
 
